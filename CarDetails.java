@@ -25,6 +25,7 @@ public class CarDetails {
 			System.out.println("Milage : 15 - 17");
 			System.out.println("Price :14 Lakh");
 			break;
+			default : System.out.println("Invalid Car name");
 			
 		}
 	}
